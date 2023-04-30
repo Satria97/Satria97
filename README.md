@@ -27,5 +27,5 @@ Saat ini saya sedang belajar tentang Frontend, Backend dan DevOps Engineer di [D
 </p>
 
 ### Reach me on
-- <a href="https://www.linkedin.com/in/satria-garlan-498155225/">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/satriagarlan/">LinkedIn</a>
 - <a href="https://www.instagram.com/satriagarlan/">Instagram</a>
