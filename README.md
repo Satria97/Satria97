@@ -4,7 +4,7 @@ Saya seorang Web Developer dan Performance Tester yang suka membuat proyek tenta
 Saya menggunakan PHP dan Javacript untuk membuat suatu aplikasi web.\
 Dan saat ini saya mulai menikmati JavaScript dan menjadikannya bahasa utama dalam membuat proyek.
 
-Saya telah menjalani pelatihan Fullstack Web Developer di [Eduwork](www.eduwork.id)\
+Saya telah menjalani pelatihan bootcamp Fullstack Laravel di [Eduwork](www.eduwork.id)\
 Saat ini saya sedang belajar tentang Frontend, Backend dan DevOps Engineer di [Dicoding](https://www.dicoding.com/academies/my).
 
 ### Tech Stack
