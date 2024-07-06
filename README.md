@@ -1,7 +1,7 @@
 ### Hi! 👋 I'm Satria.
 
 I am a Web Developer and IT Quality Assurance who likes creating projects about the web and doing testing.\
-I use PHP and Javascript to create web applications, and use Loadrunner and Neoload to do testing.\
+I use PHP and Javascript to create web applications, and use Loadrunner and Neoload to do testing.
 
 I have gone through Fullstack Laravel bootcamp training in [Eduwork](www.eduwork.id)\
 Currently I have learned about Frontend, Backend, DevOps Engineering, and Machine Learning in [Dicoding](https://www.dicoding.com/academies/my).
