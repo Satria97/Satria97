@@ -1,11 +1,11 @@
 ### Hi! 👋 I'm Satria.
 
-Saya seorang Web Developer dan Performance Tester yang suka membuat proyek tentang web.\
-Saya menggunakan PHP dan Javacript untuk membuat suatu aplikasi web.\
-Dan saat ini saya mulai menikmati JavaScript dan menjadikannya bahasa utama dalam membuat proyek.
+I am a Web Developer and Performance Tester who likes creating projects about the web.\
+I use PHP and Javascript to create a web application.\
+And now I'm starting to enjoy JavaScript and making it the main language for creating projects.
 
-Saya telah menjalani pelatihan bootcamp Fullstack Laravel di [Eduwork](www.eduwork.id)\
-Saat ini saya sedang belajar tentang Frontend, Backend dan DevOps Engineer di [Dicoding](https://www.dicoding.com/academies/my).
+I have undergone Fullstack Laravel bootcamp training in [Eduwork](www.eduwork.id)\
+Currently I have learned about Frontend, Backend, DevOps Engineering, and Machine Learning in [Dicoding](https://www.dicoding.com/academies/my).
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
